@@ -29,4 +29,4 @@ The "C# Advanced" course builds on the skills of working with the C# language an
 * Work with data streams, files and directories
 
 ## Certificate:
-![Programming Fundamentals with C# Certificate](https://softuni.bg/certificates/certificates/converttoimage/144052?code=8d515616)
+![C# Advanced Certificate](https://softuni.bg/certificates/certificates/converttoimage/144052?code=8d515616)
